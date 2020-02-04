@@ -76,6 +76,7 @@
                         <connections>
                             <outlet property="dataSource" destination="Xse-eb-e3o" id="K6r-z0-YjX"/>
                             <outlet property="delegate" destination="Xse-eb-e3o" id="joF-0w-uWx"/>
+                            <outlet property="prefetchDataSource" destination="Xse-eb-e3o" id="TGY-Nz-d1u"/>
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Home" id="vy6-SQ-Y8j"/>
